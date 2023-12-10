@@ -1,19 +1,19 @@
 import React from 'react';
 let ExercisesData = [
     {
-        "username": "user1",
+        "username": "u1",
         "description": "cycling",
         "duration": 80,
         "date": "2023-12-07 06:55:02"
     },
     {
-        "username": "use2",
+        "username": "u2",
         "description": "running",
         "duration": 60,
         "date": "2023-12-07 06:55:02"
     },
     {
-        "username": "use3",
+        "username": "u3",
         "description": "running",
         "duration": 60,
         "date": "2023-12-07 06:55:02"
